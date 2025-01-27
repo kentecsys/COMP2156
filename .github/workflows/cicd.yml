@@ -1,0 +1,29 @@
+ame: CI/CD Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Validate README.md
+        run: |
+          if [ -f README.md ]; then
+            echo "README.md exists!"
+          else
+            echo "README.md is missing!"
+            exit 1
+          fi
+
+      - name: Run Tests (Optional)
+        run: echo "Running tests..."

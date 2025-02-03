@@ -2,6 +2,17 @@ language: node_js
 node_js:
   - "stable"
 dist: focal
+addons:
+  apt:
+    packages:
+      - ruby-full
+install:
+  - npm install
+script:
+  - npm test
+before_deploy:
+  - gem install bundler
+  - gem update --system
 deploy:
   provider: pages
   skip_cleanup: true
@@ -9,3 +20,4 @@ deploy:
   local_dir: build
   on:
     branch: main
+

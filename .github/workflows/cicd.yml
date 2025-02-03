@@ -1,4 +1,4 @@
-ame: CI/CD Workflow
+ame: CICD Workflows
 
 on:
   push:

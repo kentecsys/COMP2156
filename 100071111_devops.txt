@@ -1,0 +1,13 @@
+COMP 3104 - DevOps is a course at George Brown College that introduces students to DevOps principles, tools, and practices. 
+DevOps improves collaboration between software development and IT operations, ensuring faster and more efficient software delivery.
+
+Key Topics Covered in COMP 3104:
+- Version Control (Git, GitHub)
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Configuration Management (Ansible, Puppet, Chef)
+- Cloud and Virtualization (Docker, Kubernetes)
+- Monitoring and Logging
+
+The course provides hands-on experience with DevOps tools to prepare students for real-world software development and IT environments.
+
+Website: [https://www.georgebrown.ca](https://www.georgebrown.ca)

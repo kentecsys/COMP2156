@@ -1,0 +1,13 @@
+George Brown College is a public, fully accredited college of applied arts and technology in Toronto, Ontario, Canada. 
+Founded in 1967, the college offers a variety of diploma, certificate, degree, and postgraduate programs in areas such as 
+business, technology, health sciences, community services, hospitality, and design.
+
+The college has three main campuses:
+1. **Casa Loma Campus** - Focuses on construction, skilled trades, and technology programs.
+2. **St. James Campus** - Home to business, creative arts, and culinary programs.
+3. **Waterfront Campus** - Specializes in health sciences and nursing programs.
+
+George Brown College emphasizes hands-on learning, industry partnerships, and real-world experiences to prepare students for the job market.
+The college also offers continuing education and online courses to help professionals advance their careers.
+
+Website: [https://www.georgebrown.ca](https://www.georgebrown.ca)
